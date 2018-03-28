@@ -1,0 +1,9 @@
+<p>
+Your task is to judge whether each object is a gun or non-gun object. Because the task is so fast, it is challenging to accurately identify the objects. See if you can keep your attention on perceiving the object. It might sound obvious, but you will be more successful if you can focus on seeing the object accurately. Try to relax as you do the task, and focus your attention simply on seeing the key cue: whether the presented object is a gun or a non-gun item.
+</p>
+<p>
+Remember, <b>try to assess the object on each trial!</b> Respond quickly, but be sure that you know what the object is before pressing a key.
+</p>
+<p>
+If you are ready, place your fingers on the "e" and "i" keys, and press the space bar to begin.
+</p>
