@@ -544,7 +544,7 @@ session_start();
   var allWITImages = preloadResizedImages(imgNamesArr);
 
   var goToSurvey = function () {
-    window.location = 'https://cuboulder.qualtrics.com/jfe/form/SV_5hIxf4tTk2bZhhH?pid=' + pid;
+    window.location = 'https://cuboulder.qualtrics.com/jfe/form/SV_eg7MCi4qE2m7shL?pid=' + pid;
   };
 
   var startExperiment = function () {
